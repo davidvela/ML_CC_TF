@@ -4,8 +4,6 @@ https://developers.google.com/machine-learning/crash-course/
 ## Notes
 generalizing - how do we konw if our model is good? 
 
-
-
 ## Course
 ### Prerquisites and Prework
 
