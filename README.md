@@ -1,8 +1,15 @@
-# ML CC TF : Machine Learning 
+# ML CC TF: Machine Learning Crash Course
+https://developers.google.com/machine-learning/crash-course/
 
-## Prerquisites and Prework
+## Notes
+generalizing - how do we konw if our model is good? 
 
-## ML Concepts:
+
+
+## Course
+### Prerquisites and Prework
+
+### ML Concepts:
 1. Framing
 2. Descending into ML
 3. Reducing Loss
@@ -21,16 +28,19 @@
 16. Multi-Class Neural Nets
 17. Embeddings
 
-## ML Engineering 
+### ML Engineering 
 0. Production ML Systems
 1. Static vs Dynamic Training
 2. Static vs Dynamic Inference
 3. Data Dependencies
 
-## ML Real World Examples
+### ML Real World Examples
 1. Cancer Prediction
 2. 18th Century Literature
 3. Real-World Guidelines
 
-## Conclusions 
+### Conclusions 
 Next Steps ... 
+
+## Glossary
+... 
