@@ -5,3 +5,4 @@ https://github.com/davidvela/ML_CC_TF.git
 49:00 Derek Murray @mrry : tf.data mision - fast, flexibillity, easy to use 
 ETL Extract, Transform, Load 
 1:02 - Alex eager execution
+1:20 - tensorflow.js 1.27
