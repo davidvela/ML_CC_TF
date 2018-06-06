@@ -46,6 +46,7 @@ Next Steps ...
 ## TFDevSummit18 🎉🎉🎉🎉 
 
 ...
+continue! 
 
 ## Tensor2Tensor
 
